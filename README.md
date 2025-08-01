@@ -1,5 +1,5 @@
 # Bank Management System
-This a banking management system based on Object-Oriented Programming in C++.t allows users to perform various banking operations such as creating a new account, depositing and withdrawing money, viewing account details, modifying account information, listing all account holders, and closing accounts.
+This a banking management system based on Object-Oriented Programming in C++. It allows users to perform various banking operations such as creating a new account, depositing and withdrawing money, viewing account details, modifying account information, listing all account holders, and closing accounts.
 
 
 
@@ -25,7 +25,6 @@ This a banking management system based on Object-Oriented Programming in C++.t a
 * 6: Close an existing account.
 * 7: Modify details of an existing account.
 * 8: Exit the program.
-
 6. Input Prompt: When prompted, input the necessary information such as account number, account holder name, account type (Current or Savings), and amount for deposit or withdrawal.
 7. Repeat or Exit: After completing an operation, you can choose to perform another operation or exit the program by following the on-screen instructions.
 
